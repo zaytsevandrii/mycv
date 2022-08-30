@@ -8,3 +8,6 @@
     justify-content: center;
 }
 
+.square {
+    min-height: 320px;
+}
